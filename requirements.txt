@@ -1,2 +1,2 @@
 pytelegrambotapi
-vk_apigit
+vk_api
