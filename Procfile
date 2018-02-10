@@ -1,0 +1,1 @@
+worker: python com/main/bot/bot.py
